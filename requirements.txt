@@ -3,6 +3,7 @@ pandas
 numpy
 matplotlib
 scikit-learn
+statsmodels
 xgboost
 jupyter
 ipykernel
